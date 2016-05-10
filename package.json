@@ -4,7 +4,7 @@
   "description": "学习ES2015语法",
   "main": "app.js",
   "scripts": {
-    "compile":"babel es6 -d compiles"
+    "build":"babel es6 -d compiles"
   },
   "repository": {
     "type": "git",
